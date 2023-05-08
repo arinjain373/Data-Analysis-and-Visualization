@@ -19,3 +19,16 @@
 6. styled our charts by changing the size, the labels, and the upper and lower bounds of our axis.
 7. added a legend to tell apart which line is which by colour
 8. smoothed out our time-series observations with .rolling().mean() and plotted them to better identify trends over time.
+
+# Lego_Anaylsis
+1. use HTML Markdown in Notebooks, such as section headings # and how to embed images with the <img> tag.
+2. combine the groupby() and count() functions to aggregate data
+3. use the .value_counts() function
+4. slice DataFrames using the square bracket notation e.g., df[:-2] or df[:10]
+5. use the .agg() function to run an operation on a particular column
+6. rename() columns of DataFrames
+7. create a line chart with two separate axes to visualise data that have different scales.
+8. create a scatter plot in Matplotlib
+9. work with tables in a relational database by using primary and foreign keys
+10. .merge() DataFrames along a particular column
+11. create a bar chart with Matplotlib
