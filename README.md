@@ -1,4 +1,4 @@
-# College Major using pandas
+# Data_Explortion_Pandas_College_Major
 
 1. Use .head(), .tail(), .shape and .columns to explore your DataFrame and find out the number of rows and columns as well as the column names.
 2. Look for NaN (not a number) values with .findna() and consider using .dropna() to clean up your DataFrame.
