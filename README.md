@@ -43,3 +43,10 @@
 7. How to use different kinds of markers (e.g., 'o' or '^') on charts.
 8. Fine-tuning the styling of Matplotlib charts by using limits, labels, linewidth and colours (both in the form of named colours and HEX codes).
 9. Using .grid() to help visually identify seasonality in a time series.
+
+
+# Google Play Store App Analytics
+1. Pull a random sample from a DataFrame using .sample()
+2. How to find duplicate entries with .duplicated() and .drop_duplicates()
+3. How to convert string and object data types into numbers with .to_numeric()
+4. How to use plotly to generate beautiful pie, donut, and bar charts as well as box and scatter plots
