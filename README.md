@@ -50,3 +50,12 @@
 2. How to find duplicate entries with .duplicated() and .drop_duplicates()
 3. How to convert string and object data types into numbers with .to_numeric()
 4. How to use plotly to generate beautiful pie, donut, and bar charts as well as box and scatter plots
+
+# Computation_with_NumPy_and_N_Dimensional_Arrays
+1. Create arrays manually with np.array()
+2. Generate arrays using  .arange(), .random(), and .linspace()
+3. Analyse the shape and dimensions of a ndarray
+4. Slice and subset a ndarray based on its indices
+5. Do linear algebra like operations with scalars and matrix multiplication
+6. Use NumPys broadcasting to make ndarray shapes compatible
+7. Manipulate images in the form of ndarrays
