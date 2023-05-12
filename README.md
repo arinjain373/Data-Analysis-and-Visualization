@@ -69,3 +69,16 @@
 6. Use Seaborn to superimpose a linear regressions over our data
 7. Make a judgement if our regression is good or bad based on how well the model fits our data and the r-squared metric
 8. Run regressions with scikit-learn and calculate the coefficients.
+
+# Nobel_Prize_Analysis
+1.How to uncover and investigate NaN values.
+2. How to convert objects and string data types to numbers.
+3. Creating donut and bar charts with plotly.
+4. Create a rolling average to smooth out time-series data and show a trend.
+5. How to use .value_counts(), .groupby(), .merge(), .sort_values() and .agg().
+6. Create a Choropleth to display data on a map.
+7. Create bar charts showing different segments of the data with plotly.
+8. Create Sunburst charts with plotly.
+9. Use Seaborn's .lmplot() and show best-fit lines across multiple categories using the row, hue, and lowess parameters.
+10. Understand how a different picture emerges when looking at the same data in different ways (e.g., box plots vs a time series analysis).
+11. See the distribution of our data and visualise descriptive statistics with the help of a histogram in Seaborn.
