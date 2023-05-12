@@ -72,6 +72,7 @@
 
 # Nobel_Prize_Analysis
 1.How to uncover and investigate NaN values.
+
 2. How to convert objects and string data types to numbers.
 3. Creating donut and bar charts with plotly.
 4. Create a rolling average to smooth out time-series data and show a trend.
