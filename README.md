@@ -82,3 +82,13 @@
 9. Use Seaborn's .lmplot() and show best-fit lines across multiple categories using the row, hue, and lowess parameters.
 10. Understand how a different picture emerges when looking at the same data in different ways (e.g., box plots vs a time series analysis).
 11. See the distribution of our data and visualise descriptive statistics with the help of a histogram in Seaborn.
+
+# Dr_Semmelweis_Handwashing_Discovery
+1. How to use histograms to visualise distributions
+2. How to superimpose histograms on top of each other even when the data series have different lengths
+3. How to use a to smooth out kinks in a histogram and visualise a distribution with a Kernel Density Estimate (KDE)
+4. How to improve a KDE by specifying boundaries on the estimates
+5. How to use scipy and test for statistical significance by looking at p-values.
+6. How to highlight different parts of a time series chart in Matplotib.
+7. How to add and configure a Legend in Matplotlib.
+8. Use NumPy's .where() function to process elements depending on a condition.
